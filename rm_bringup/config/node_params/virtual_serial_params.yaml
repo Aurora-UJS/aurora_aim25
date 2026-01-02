@@ -1,0 +1,6 @@
+/**:
+  ros__parameters:
+    roll: 0.0
+    pitch: 0.0
+    yaw: 180.0
+    vision_mode: 0 # 0: AUTO_AIM_RED 1: AUTO_AIM_BLUE 2: SMALL_RUNE_RED 3: SMALL_RUNE_BLUE 4: BIG_RUNE_RED 5: BIG_RUNE_BLUE
